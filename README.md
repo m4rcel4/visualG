@@ -14,6 +14,5 @@
 
 - Jogando
 <h2 align="center">
-  <img src="./images/visual4.png" width="80%">
-
+  <img src="./images/visual3.png" width="100%">
 </h2>
