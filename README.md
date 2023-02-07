@@ -12,7 +12,7 @@
   <img src="./images/visual2.png" width="80%">
 </h2>
 
-- Jogo
+- Jogando
 <h2 align="center">
   <img src="./images/visual4.png" width="80%">
 
