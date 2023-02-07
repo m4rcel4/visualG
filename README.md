@@ -5,5 +5,15 @@
 - Código
 <h2 align="center">
   <img src="./images/visual1.png" width="80%">
+</h2>
+
+- Definindo a palavra a ser adivinhada
+<h2 align="center">
+  <img src="./images/visual2.png" width="80%">
+</h2>
+
+- Jogo
+<h2 align="center">
+  <img src="./images/visual2.png" width="80%">
 
 </h2>
