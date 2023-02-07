@@ -4,6 +4,6 @@
 
 - Código
 <h2 align="center">
-  <img src="./images/visual1.png" width="100%">
+  <img src="./images/visual1.png" width="80%">
 
 </h2>
